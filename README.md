@@ -7,7 +7,7 @@ research meets intention.
 ---
 
 ### 🧬 who i am  
-i’m darshika pasi — a biotech undergrad trying to understand cancer, code, and everything they don’t teach you in class.  
+i’m darshika pasi,  a biotech undergrad trying to understand cancer, code, and everything they don’t teach you in class.  
 my work lives at the edge of wet lab dreams and dry lab tools.  
 i explore biology not just in textbooks, but in molecules, datasets, and the questions that haunt both.
 
@@ -15,7 +15,7 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
 
 ### 🔭 what i'm working on  
 - exploring how **breast cancer and t2dm** interact at the molecular level  
-- building [**Refracto**](https://refracto.vercel.app) — a research assistant built for focus  
+- building Refracto a research assistant built for focus  
 - writing a review on **omics-based breast cancer therapeutics**  
 - drafting original research on **plant-based dual modulators**  
 - learning bioinformatics like it’s my second language
@@ -55,6 +55,8 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
 💬 ask me about:  
 → refracto, breast cancer research, paper writing, science workflows  
 → or just how to get started in all this — slowly
+
+---
 
 📫 reach me:  
 <a href="mailto:darshikapasi103@gmail.com">
