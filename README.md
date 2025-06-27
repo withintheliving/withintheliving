@@ -1,16 +1,36 @@
-## Hi there 👋
+<h2 align="center">within the living</h2>
+<p align="center">
+  figuring out cancer, bioinformatics, and the questions between.  
+  writing, building, wondering — mostly in that order.
+</p>
 
-<!--
-**withintheliving/withintheliving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧬 about me
+- Biotech undergrad  
+- Currently researching **breast cancer & type 2 diabetes**  
+- Building tools like [`Refracto`](https://refracto.vercel.app)  
+- Writing papers, code, and everything that doesn’t make sense — yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 current projects
+- 🧪 **Refracto** — a minimal research workspace for scientists  
+- 📄 **Review paper** on omics-based approaches in breast cancer  
+- 🔬 **Original research**: plant-based dual modulators for breast cancer & T2DM
+
+---
+
+### 🛠 tech stack
+`bioinformatics` `streamlit` `python` `html` `markdown`  
+(learning as I go)
+
+---
+
+### 🕊 philosophy
+> “Curiosity counts. Especially when no one’s watching.”
+
+---
+
+### 📫 contact
+[LinkedIn](https://linkedin.com/in/darshikapasi) • [Email](mailto:darshikapasi103@gmail.com)
