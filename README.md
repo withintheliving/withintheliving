@@ -45,7 +45,7 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
 ### 📌 little things
 
 🌱 currently learning:  
-→ deeper layers of bioinformatics, streamlit, next.js  
+→ deeper layers of bioinformatics, streamlit,
 → how to think in systems, not just steps
 
 👯 looking to collaborate on:  
@@ -53,8 +53,8 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
 → anything that asks good questions
 
 💬 ask me about:  
-→ refracto, breast cancer research, paper writing, science workflows  
-→ or just how to get started in all this — slowly
+→ breast cancer research, paper writing, science workflows  
+→ or just how to get started in all this.
 
 ---
 
