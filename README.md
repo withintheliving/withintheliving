@@ -1,36 +1,66 @@
-<h2 align="center">within the living</h2>
+<h1 align="center">within the living</h1>
 <p align="center">
-  figuring out cancer, bioinformatics, and the questions between.  
-  writing, building, wondering — mostly in that order.
+  a quiet space where science meets systems.  
+  building, researching, and writing — slowly, intentionally.
 </p>
 
 ---
 
-### 🧬 about me
-- Biotech undergrad  
-- Currently researching **breast cancer & type 2 diabetes**  
-- Building tools like [`Refracto`](https://refracto.vercel.app)  
-- Writing papers, code, and everything that doesn’t make sense — yet
+### 🧬 who i am  
+i’m darshika pasi — a biotech undergrad trying to understand cancer, code, and everything they don’t teach you in class.  
+my work lives at the edge of wet lab dreams and dry lab tools.  
+i explore biology not just in textbooks, but in molecules, datasets, and the questions that haunt both.
 
 ---
 
-### 📌 current projects
-- 🧪 **Refracto** — a minimal research workspace for scientists  
-- 📄 **Review paper** on omics-based approaches in breast cancer  
-- 🔬 **Original research**: plant-based dual modulators for breast cancer & T2DM
+### 🔭 what i'm working on
+- exploring how **breast cancer and t2dm** interact at the molecular level  
+- building [**Refracto**](https://refracto.vercel.app) — a research assistant built for focus  
+- writing a review on **omics-based breast cancer therapeutics**  
+- drafting original research on **plant-based dual modulators**  
+- learning bioinformatics like it’s my second language
 
 ---
 
-### 🛠 tech stack
-`bioinformatics` `streamlit` `python` `html` `markdown`  
-(learning as I go)
+### 🔬 research, to me...
+- is a way of seeing  
+- is iterative, like code  
+- begins in curiosity, ends in clarity  
+- doesn’t need a lab to be real  
+- is a habit, not a goal
 
 ---
 
-### 🕊 philosophy
-> “Curiosity counts. Especially when no one’s watching.”
+### 🛠 skills & tools  
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PubMed-4A90E2?logo=data:image/svg+xml;base64,PHN2Zy...&logoColor=white" />
+</p>
 
 ---
 
-### 📫 contact
-[LinkedIn](https://linkedin.com/in/darshikapasi) • [Email](mailto:darshikapasi103@gmail.com)
+### 📌 little things
+
+🌱 currently learning:  
+→ deeper layers of bioinformatics, streamlit, next.js  
+→ how to think in systems, not just steps
+
+👯 looking to collaborate on:  
+→ bio + tech ideas, research tooling, writing pieces  
+→ anything that asks good questions
+
+💬 ask me about:  
+→ refracto, breast cancer research, paper writing, science workflows  
+→ or just how to get started in all this — slowly
+
+📫 reach me:  
+→ [darshikapasi103@gmail.com](mailto:darshikapasi103@gmail.com)  
+→ [LinkedIn](https://linkedin.com/in/darshikapasi)  
+→ [Instagram](https://instagram.com/darshikaa_0)  
+→ [Twitter](https://twitter.com/darshikapasi)
+
+😄 pronouns: she/her  
+⚡ fun fact: i google too much, write what i can’t say out loud, and learn like it’s survival.
