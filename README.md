@@ -36,7 +36,7 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/PubMed-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy...&logoColor=white" />
 </p>
 
@@ -45,7 +45,7 @@ i explore biology not just in textbooks, but in molecules, datasets, and the que
 ### 📌 little things
 
 🌱 currently learning:  
-→ deeper layers of bioinformatics, streamlit,
+→ deeper layers of bioinformatics, streamlit,       
 → how to think in systems, not just steps
 
 👯 looking to collaborate on:  
